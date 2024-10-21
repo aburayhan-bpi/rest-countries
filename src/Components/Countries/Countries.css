@@ -7,3 +7,7 @@
   background-color: bisque;
   color: black;
 }
+
+.flagContainer img{
+    width: 250px;
+}
