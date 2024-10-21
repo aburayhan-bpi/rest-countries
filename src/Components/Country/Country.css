@@ -1,6 +1,6 @@
-.country {
+.countryBox {
   border: 2px solid green;
   padding: 10px;
-  border-radius: 15px;
   margin: 10px;
+  border-radius: 10px;
 }
